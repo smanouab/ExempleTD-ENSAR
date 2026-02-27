@@ -1,5 +1,14 @@
 # ExempleTD-ENSAR-Github
 
 Je décris ici l'organisation et la publication d'un projet sur Github.
-Merci à notre best Professeur Solym Manou-Abi de l'Université de Poitiers sur le campus  Niortais des deus Sèvres
+# Introduction
+
+Dans cette partie je présente l'outil Markdown. 
+Je me présente pour commencer: Solym Manou-Abi, Professeur à l'Université de Poitiers sur le campus  Niortais des deux Sèvres au sein de l'ENSAR
+
+👉 [MaPageWeb](https://sites.google.com/view/solymmanou-abi/home)
+
+##Affichage d'une image Résultat du Projet
+![Description|500](test2-markdown.jpg)
+
 
