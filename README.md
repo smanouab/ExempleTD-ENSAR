@@ -9,9 +9,6 @@ Je me présente pour commencer: Solym Manou-Abi, Professeur à l'Université de 
 👉 [MaPageWeb](https://sites.google.com/view/solymmanou-abi/home)
 
 ##Affichage d'une image Résultat du Projet
-![Description|500](ExempleTD-ENSAR/test2-markdown.jpg)
+![Description|500](test2-markdown.jpg)
 
-## Affichage d'une image Résultat du Projet
-
-![Texte alternatif](ExempleTD-ENSAR/test2-markdown.jpg)
 
