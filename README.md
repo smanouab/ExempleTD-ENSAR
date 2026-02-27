@@ -11,4 +11,13 @@ Je me présente pour commencer: Solym Manou-Abi, Professeur à l'Université de 
 ##Affichage d'une image Résultat du Projet
 ![Description|500](test2-markdown.jpg)
 
+##Et je continue la présentation de mon projet:
+ 🌋 À propos du Projet 
+
+- **📍 Localisation**: Item pour XXXX
+- **🌊 Type**: Item pour YYYYY
+- **📅 Activité**: Item pour ZZZZZZ
+- **📡 Surveillance**: Item pour TTTTTT
+- **📊 Données**: Item pour la descritpion de votre data
+
 
