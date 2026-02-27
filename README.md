@@ -4,7 +4,7 @@ Je décris ici l'organisation et la publication d'un projet sur Github.
 # Introduction
 
 Dans cette partie je présente l'outil Markdown. 
-Je me présente pour commencer: Solym Manou-Abi, Professeur à l'Université de Poitiers sur le campus  Niortais des deux Sèvres au sein de l'ENSAR
+Je me présente pour commencer: Solym Manou-Abi, Professeur à l'Université de Poitiers sur le campus  Niortais des deux Sèvres au sein de l'Ecole d'Ingénieur ENSAR
 
 👉 [MaPageWeb](https://sites.google.com/view/solymmanou-abi/home)
 
