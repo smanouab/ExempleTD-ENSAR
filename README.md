@@ -9,7 +9,7 @@ Je me présente pour commencer: Solym Manou-Abi, Professeur à l'Université de 
 👉 [MaPageWeb](https://sites.google.com/view/solymmanou-abi/home)
 
 ##Affichage d'une image Résultat du Projet
-![Description|500](test2-markdown.jpg)
+![Description|250](test2-markdown.jpg)
 
 ##Et je continue la présentation de mon projet:
  🌋 À propos du Projet 
